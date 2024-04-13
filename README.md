@@ -1,6 +1,6 @@
-# Gym Information System
+# Gym Information System database
 
-This project aims to design a database schema for a gym information system to manage members, trainers, classes, and equipment.
+This project aims to design a mySQL database schema for a gym information system to manage members, trainers, classes, and equipment.
 
 ## Table of Contents
 - [Installation](#installation)
